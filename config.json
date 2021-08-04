@@ -1,0 +1,59 @@
+{
+ "principais": [
+    {
+  "canal_do_registro": "",
+  "categoria": "z",
+  "cargo_registrado": "",
+  "cargo_não_registrado": "",
+  "cor_das_embeds": "#4e87ff",
+  "imagem_das_embeds": "",
+  "adicionar_cargo_registrado": true,
+  "retirar_cargo_não_regitrado": true
+    }
+  ], 
+
+  "emojis": [
+    {
+  "emoji_correto": "",
+  "emoji_cancelar": "",
+  "emoji_numero_1": "",
+  "emoji_numero_2": "",
+  "emoji_numero_3": "",
+  "emoji_numero_4": ""
+  }
+  ],    
+
+  "cargos_pagina_1": [
+    {
+  "cargo_1": "",
+  "cargo_2": ""
+    }
+  ],  
+
+  "cargos_pagina_2": [
+    {
+  "cargo_1": "",
+  "cargo_2": ""
+    }
+  ],  
+
+  "cargos_pagina_3": [
+    {
+  "cargo_1": "",
+  "cargo_2": "",
+  "cargo_3": ""
+    }
+  ],  
+
+  "cargos_pagina_4": [
+    {
+  "cargo_1": "",
+  "cargo_2": "",
+  "cargo_3": "",
+  "cargo_4": ""
+    }
+  ],
+  "prefix": "<AQUI SEU PREFIXO>",
+  "token": "<COLOQUE AQUI SUA TOKEN>"
+
+}
